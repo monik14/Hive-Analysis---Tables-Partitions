@@ -1,0 +1,5 @@
+Hive has 2 types of tables:
+a. Managed Tables, b. External Tables
+
+Partitioning in Hive is of two types:
+a. Static Partitioning, b. Dynamic Partitioning
